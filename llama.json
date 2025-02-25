@@ -1,0 +1,10 @@
+{
+    "ollamaURL": "http://your.ollama.server:11434/api/chat",
+    "ollamaPort": 11434,
+    "modelName": "llama3.2",
+    "contextWindowSize": 100000,
+    "systemPrompt": "you are a helpful, friendly assitant",
+    "humanName": "Bob",
+    "AIName": "Botty McGee"
+  }
+  
